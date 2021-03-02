@@ -29,3 +29,6 @@
 6. rename columns to `word` and `category`
 7. Get the table URL, and set the env variable for `TABLE_URL`
 8. Run `main.py`
+9. Import to ANKI
+   - Export to HTML the page
+   - Then use https://2anki.net/upload to generate your ANKI deck
