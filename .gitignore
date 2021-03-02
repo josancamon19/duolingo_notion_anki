@@ -1,0 +1,4 @@
+google-services.json
+dev.env
+# Project exclude paths
+/venv/
